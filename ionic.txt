@@ -1,0 +1,1 @@
+ejecutar el servidor y abrir las vistas de las diferentes plataformas :ionic serve --lab
